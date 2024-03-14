@@ -1,3 +1,6 @@
+THIS REPOSITORY IS NO LONGER MAINTAINED.  IF YOU WISH TO UPDATE IT, FEEL FREE TO FORK.  
+
+
 <br />
 <img src="https://github.com/OpenBB-finance/OpenBBTerminal/blob/main/images/openbb-logo-dark.svg?raw=true#gh-light-mode-only" alt="OpenBB Terminal logo" width="600">
 <img src="https://github.com/OpenBB-finance/OpenBBTerminal/blob/main/images/openbb-logo-light.svg?raw=true#gh-dark-mode-only" alt="OpenBB Terminal logo" width="600">
