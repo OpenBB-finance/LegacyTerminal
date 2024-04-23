@@ -8,10 +8,6 @@ env:
   OPENBB_FILE_OVERWRITE: true
   PYTHONNOUSERSITE: 1
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
 permissions:
   actions: write
 
